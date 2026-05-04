@@ -1,0 +1,19 @@
+# Build artifacts
+/logpipe
+/bin/
+*.test
+*.out
+*.prof
+coverage.txt
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+# Local development notes (per user rule)
+CHANGES.md
