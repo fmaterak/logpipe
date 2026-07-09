@@ -7,7 +7,7 @@
 [![Go Version](https://img.shields.io/badge/go-1.22+-00ADD8?style=flat-square&logo=go)](https://go.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![CI](https://img.shields.io/github/actions/workflow/status/fmaterak/logpipe/ci.yml?style=flat-square&label=CI)](https://github.com/fmaterak/logpipe/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/fmaterak/logpipe?style=flat-square)](https://goreportcard.com/report/github.com/fmaterak/logpipe)
+[![Go Reference](https://img.shields.io/badge/reference-pkg.go.dev-00ADD8?style=flat-square&logo=go)](https://pkg.go.dev/github.com/fmaterak/logpipe)
 
 *When `grep` and `tail -f` aren't enough.*
 
